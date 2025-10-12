@@ -1,3 +1,5 @@
+# NOT BEING USED
+
 import pandas as pd
 
 df = pd.read_csv('./dataset/teams.csv')
